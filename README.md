@@ -7,3 +7,5 @@ $ setFields
 $ interFoam
 
 To change the capture interval of openFoam, open system/controlDict and edit its contents as you wish.
+
+A rendering in paraView can be found here: https://vimeo.com/202109528
