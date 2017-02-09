@@ -1,5 +1,5 @@
 # inventasFlow
-Authour: Sunny Islam
+Author: Sunny Islam
 
 Move this directory to your openFoam run directory. Open terminal and execute:
 
